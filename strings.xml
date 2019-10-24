@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name">Emily Ava</string>
+    <string name="yellow_star">Yellow star</string>
+    <string name="bio">Hello, my name is Emily.
+    \n\n\t I am a senior CS student at Troy University. \n
+        I am learning how to develop Android applications, and I am enjoying it a lot.
+        I am currently looking for jobs in Huntsville, AL. \n
+        My preferences are in the fields of app development, software engineering, and cyber security. \n\n
+        \t My hobbies include gaming, cars, reading, watching shows and taking naps. \n
+        My favorite games are the Elder Scrolls series, the Witcher series, and Pokemon. \n
+        My favorite book is Memoirs of a Geisha by Arthur Golden. \n
+        My favorite shows are Game of Thrones, Vikings, Good Trouble and Jane the Virgin. \n\n
+        \t I have a very strong interest in cars, and would like to build my own one day to drift in competitions. \n
+        My favorite car is a Nissan r34, and I would have it painted dark purple with white wheels. \n
+        I love to watch Ken Block\'s Gymkhana videos. \n
+        Another thing I enjoy is watching YouTube videos. My favorite YouTubers are PewDiePie, Safiya Nygaard,
+        Jenna Marbles, Linzor, CollisCool, and Andrea Russet.\n\n
+        \t Food is another one of my passions. I am not a picky eater and will eat almost anything -
+        besides ketchup, mushrooms, or iced tea. \n
+        My favorite food is sushi, and I love to go to Chow King in Dothan, AL to eat as much as I want. \n
+        I also love burgers, kimchi, and ddeokboki, which is a Korean street food dish consisting
+        of chewy rice cake in a spicy red sauce. \n
+        I love traveling as well; one of my favorite things about it is trying different ethnicity\'s foods.\n
+        I have been to Greece, Turkey and Israel. My favorite food  out of those was in Greece.
+        They had a dish called mousakka which was like a cheesier,
+        heartier version of American lasagna.\n\n
+    </string>
+</resources>
